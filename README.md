@@ -1,6 +1,6 @@
 # paper-72h-reset
 
-72 時間ごとにワールドが自動でリセットされる，[PaperMC](https://papermc.io/) サーバー向けの管理スクリプトです．
+72 時間ごとにワールドが自動でリセットされる，[PaperMC](https://papermc.io/) サーバー向けの管理スクリプトです．[自前のサーバー](https://star-code.net/blog/minecraft-server)向けに作成したものです．
 
 最低限の運用を想定しており，定期リセット・MOTD の更新・チャットへの残り時間の通知・バックアップ作成・再起動までをすべて自動で行います．
 
